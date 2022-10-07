@@ -1,0 +1,14 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+
+.container {
+    width: 90%;
+    padding: 20px;
+    margin: 100px auto;
+    display: flex;
+    background: #ddd;
+}
