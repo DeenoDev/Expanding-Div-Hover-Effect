@@ -12,3 +12,19 @@
     display: flex;
     background: #ddd;
 }
+
+.box {
+    height: 400px;
+    padding:20px;
+    background: purple;
+    border: 3px solid #ddd;
+    font-size: 30px;
+    flex: 1;
+    transition: 1s;
+}
+
+.box:hover {
+    flex:3;
+    background: #d67ab8;
+    
+}
